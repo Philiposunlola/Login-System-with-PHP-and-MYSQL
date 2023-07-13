@@ -52,7 +52,7 @@
                placeholder="Re_Password"><br>
 
      	<button type="submit">Sign up</button>
-		<a href="index.php" class="ca">Already have an account</a>
+		<a href="index.php" class="ca">Already have an account?</a>
      </form>
 </body>
 </html>
